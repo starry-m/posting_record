@@ -22,6 +22,12 @@
 
 4.[基于nRF7002 DK的蓝牙键鼠复合设备](https://www.eetree.cn/project/detail/2106)
 
+5.[使用i.MX RT1021开发板+OV2640实现的简易照相机](https://www.eetree.cn/project/detail/2714)
+
+6.[基于F280049C的数控电源](https://www.eetree.cn/project/detail/2674)
+
+
+
 
 ## RTT论坛
 
