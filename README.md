@@ -26,7 +26,7 @@
 
 6.[基于F280049C的数控电源](https://www.eetree.cn/project/detail/2674)
 
-
+7.[STEP-FPGA 使用UART传输图片和音乐进行显示和播放](https://www.eetree.cn/project/2796)
 
 
 ## RTT论坛
