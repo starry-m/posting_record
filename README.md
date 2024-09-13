@@ -28,6 +28,9 @@
 
 7.[STEP-FPGA 使用UART传输图片和音乐进行显示和播放](https://www.eetree.cn/project/2796)
 
+8.[基于IKS4A1和H743 NUCLEO的传感器数据采集装置](https://www.eetree.cn/project/3089)
+
+9.[FUNPACK3-4:基于 MXCN947 和 TCP 的远程感知与控制系统](https://www.eetree.cn/project/3418)
 
 ## RTT论坛
 
